@@ -155,4 +155,4 @@ def get_stats():
     """Retorna as estatísticas atuais."""
     return current_stats
 
-
+update_stats()
